@@ -111,7 +111,7 @@ export const ContactUs = () => {
             <br />
             <br />
             <br />
-            <a href="../assets/CV_JUANMORA.pdf" download className="btn ac_btn"> Download CV </a>
+            <a href="./CV_JUANMORA.pdf" download="CV_JUANMORA.pdf" className="btn ac_btn"> Download CV </a>
           </Col>
           <Col lg="7" className="d-flex align-items-center">
             <form onSubmit={handleSubmit} className="contact__form w-100">
