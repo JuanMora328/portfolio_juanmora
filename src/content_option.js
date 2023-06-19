@@ -104,6 +104,11 @@ const dataportfolio = [{
         description: "This project was created to discover the differents widgets / components from FLUTTER.",
         link: "https://github.com/JuanMora328/FLUTTER_COMPONENTS_WIDGETS",
     },
+    {
+        img: "https://netlibsecurity.com/wp-content/uploads/2016/01/sqlserver-logo.png",
+        description: "The Node.js API, powered by Express.js, is a basic RESTful API that allows clients to interact with a SQL Server database.",
+        link: "https://github.com/JuanMora328/APIREST_SQLSERVER",
+    },
 ];
 
 const contactConfig = {
