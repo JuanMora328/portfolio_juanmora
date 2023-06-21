@@ -109,6 +109,11 @@ const dataportfolio = [{
         description: "The Node.js API, powered by Express.js, is a basic RESTful API that allows clients to interact with a SQL Server database.",
         link: "https://github.com/JuanMora328/APIREST_SQLSERVER",
     },
+    {
+        img: "https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png",
+        description: "The Node.js API, powered by Express.js, is a basic RESTful API designed specifically for practicing relations in MongoDB.",
+        link: "https://github.com/JuanMora328/API_MONGO-NODEJS",
+    },
 ];
 
 const contactConfig = {
