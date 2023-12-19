@@ -19,13 +19,18 @@ const dataabout = {
     aboutme: "Computer Engineer with a year of dedicated backend development experience. Proficient in Java, Spring Boot, Node.js, Express.js, and JavaScript, I am passionate about crafting efficient and scalable solutions. Known for my strong sense of responsibility, meticulous problem analysis, and collaborative spirit, I thrive in team environments. Let's join forces to build remarkable software solutions that make an impact!",
 };
 const worktimeline = [{
-    jobtitle: "Junior Developer",
+    jobtitle: "Junior Software Developer",
+    where: "Satlock S.A.S",
+    date: "December 2023 - Currently",
+},
+{
+    jobtitle: "Junior Backend Developer",
     where: "Visitrack S.A.S",
-    date: "July 2023 - Currently",
+    date: "July 2023 - December 2023",
 },
 {
     jobtitle: "Developer APX",
-    where: "INDRA S.A.S",
+    where: "Indra S.A.S",
     date: "August 2022 - April 2023",
 },
 {
@@ -35,7 +40,7 @@ const worktimeline = [{
 },
 {
     jobtitle: "Backend Developer",
-    where: "AMCOR",
+    where: "Amcor",
     date: "July - December 2022",
 },
 {
